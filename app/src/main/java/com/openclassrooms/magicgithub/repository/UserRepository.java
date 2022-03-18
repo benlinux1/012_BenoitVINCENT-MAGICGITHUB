@@ -14,17 +14,17 @@ public class UserRepository {
     }
 
     public List<User> getUsers() {
-        // return getUsers() results from ApiService to get Users List
+        // return getUsers() results from ApiService Interface to get Users List
         return apiService.getUsers();
     }
 
     public void generateRandomUser() {
-        // use generateRandomUser() method from ApiService to generate Random Users in Users List
+        // use generateRandomUser() method from ApiService Interface to generate Random Users in Users List
         apiService.generateRandomUser();
     }
 
     public void deleteUser(User user) {
-        // use deleteUser() method from ApiService to delete selected user
+        // use deleteUser() method from ApiService Interface to delete selected user
         apiService.deleteUser(user);
     }
 }

@@ -17,7 +17,7 @@ public class FakeApiService implements ApiService {
      */
     @Override
     public List<User> getUsers() {
-        // Get & return users List from ApiService interface
+        // Get & return users List from FakeApiService (FAKE_USERS)
         return users;
     }
 
@@ -27,7 +27,7 @@ public class FakeApiService implements ApiService {
      */
     @Override
     public void generateRandomUser() {
-        // Generate & add random users to Users List (got from model>User)
+        // Generate & add random user to Users List (got from model>User)
         users.add(FAKE_USERS_RANDOM.get(new Random().nextInt(FAKE_USERS_RANDOM.size())));
     }
 
