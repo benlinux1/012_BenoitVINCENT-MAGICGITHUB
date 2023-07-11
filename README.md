@@ -1,5 +1,4 @@
-![benoit-vincent-magic-github2](https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB/assets/78255467/2735b73e-e754-4c26-9d8f-f5f03fc32cf3)
-![android-100_-java](https://github.com/benlinux1/DA_ANDROID_P2/assets/78255467/d997bac6-c6d8-402f-b9e5-d16a7b673a1c)
+![benoit-vincent-magic-github3](https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB/assets/78255467/9823091d-51be-4f8c-b2c8-4029defba374)![android-app-100_-java](https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB/assets/78255467/958569a7-436a-4089-b438-d5ac6475dcae)
 
 # VERSION FRANCAISE
 (English translation in the 2nd part of the documentation below)
@@ -71,9 +70,7 @@ Notre équipe : BenLinux & FranckBlack
 
 
 ============================================================================================
-![benoit-vincent-magic-github2](https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB/assets/78255467/2735b73e-e754-4c26-9d8f-f5f03fc32cf3)
-![android-100_-java](https://github.com/benlinux1/DA_ANDROID_P2/assets/78255467/d997bac6-c6d8-402f-b9e5-d16a7b673a1c)
-
+![benoit-vincent-magic-github3](https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB/assets/78255467/9823091d-51be-4f8c-b2c8-4029defba374)![android-app-100_-java](https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB/assets/78255467/958569a7-436a-4089-b438-d5ac6475dcae)
 
 # ENGLISH VERSION
 (version française en 1ère partie de la documentation)
