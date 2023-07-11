@@ -10,26 +10,6 @@ Ce dépôt contient une mini-application pour le P2 du parcours **DA ANDROID**, 
 ## Technologies
 - 100% JAVA, ce projet a été réalisé à partir de l'IDE Android Studio.
 
-## Installation
-- Ouvrez votre IDE préféré (ici Android Studio)
-- Ouvrez un nouveau projet et choississez "Get From Version Control"
-- Clonez l'application en copiant / collant ce lien : https://github.com/benlinux1/DA_ANDROID_MAGICGITHUB.git
-- Spécifiez un dossier de destination sur votre ordinateur et cliquez sur "clone"
-- Voici les étapes en images :
-
-![Sans titre-1](https://user-images.githubusercontent.com/78255467/163190059-da88648f-1973-478d-bb77-b718449825a3.png)
-
-L'application va ensuite se compiler dans Android Studio
-
-## Utilisation / Lancement de l'application
-
-Vous pouvez utiliser cette application via un émulateur, pour une simulation sur le mobile de votre choix.
-Pour ce faire, rendez-vous dans le ruban à droite de la fenêtre puis "create device" et laissez-vous guider.
-
-Vous pouvez également utiliser cette application sur votre smartphone personnel en choississant l'option "physical"
-Ensuite, lancez l'application en cliquant sur le bouton triangulaire "Run", comme ci-dessous :
-
-![Sans titre-2](https://user-images.githubusercontent.com/78255467/163193524-89842086-ca39-475c-afc2-e39e3e586f68.png)
 
 ## Objectifs
 
@@ -60,9 +40,34 @@ https://github.com/benlinux1/DA_ANDROID_P2/assets/78255467/19d6d25f-796c-488c-a8
 - Tests unitaires
 - Tests instrumentalisés
 
+
+## Installation
+- Ouvrez votre IDE préféré (ici Android Studio)
+- Ouvrez un nouveau projet et choississez "Get From Version Control"
+- Clonez l'application en copiant / collant ce lien : https://github.com/benlinux1/DA_ANDROID_MAGICGITHUB.git
+- Spécifiez un dossier de destination sur votre ordinateur et cliquez sur "clone"
+- Voici les étapes en images :
+
+![Sans titre-1](https://user-images.githubusercontent.com/78255467/163190059-da88648f-1973-478d-bb77-b718449825a3.png)
+
+L'application va ensuite se compiler dans Android Studio
+
+
+## Utilisation / Lancement de l'application
+
+Vous pouvez utiliser cette application via un émulateur, pour une simulation sur le mobile de votre choix.
+Pour ce faire, rendez-vous dans le ruban à droite de la fenêtre puis "create device" et laissez-vous guider.
+
+Vous pouvez également utiliser cette application sur votre smartphone personnel en choississant l'option "physical"
+Ensuite, lancez l'application en cliquant sur le bouton triangulaire "Run", comme ci-dessous :
+
+![Sans titre-2](https://user-images.githubusercontent.com/78255467/163193524-89842086-ca39-475c-afc2-e39e3e586f68.png)
+
+
 ## Contribuez au projet
 
 Entrevoisins est un projet open source. Vous pouvez donc en utiliser le code source à votre guise pour développer vos propres focntionnalités.
+
 
 ## Auteurs
 
@@ -83,26 +88,6 @@ This repository contains a mini app for the **DA Android** 2nd projet, untiltled
 ## Technologies
 - 100% JAVA, this project was made with Android Studio IDE.
 
-## Install
-- Open your favorite IDE (here Android Studio)
-- Open a new project and choose "Get From Version Control" option
-- Clone the app by copying / pasting this repository link : https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB.git
-- Specify a destination folder name on your computer and click "clone"
-- Here are the steps to illustrate in pictures :
-
-![Sans titre-1](https://user-images.githubusercontent.com/78255467/163190059-da88648f-1973-478d-bb77-b718449825a3.png)
-
-Next the app will compile in Android Studio
-
-## Use / How to launch app
-
-You can use this app with an emulator, for a choosen mobile simulation.
-To do that, go to the tools ribbon in the right part of the window and click "create device". Then, follow the instructions on screen.
-
-You can also use this app with your own smartphone, choosing "physical" option in device manager, 
-Then, launch app clicking on the green triangle button "Run", like in this example :
-
-![Sans titre-2](https://user-images.githubusercontent.com/78255467/163193524-89842086-ca39-475c-afc2-e39e3e586f68.png)
 
 ## Objectives
 
@@ -127,6 +112,29 @@ https://github.com/benlinux1/DA_ANDROID_P2/assets/78255467/96c268ef-5491-4a35-97
 ### Delete user
 
 https://github.com/benlinux1/DA_ANDROID_P2/assets/78255467/19d6d25f-796c-488c-a88c-2208f0556169
+
+
+## Install
+- Open your favorite IDE (here Android Studio)
+- Open a new project and choose "Get From Version Control" option
+- Clone the app by copying / pasting this repository link : https://github.com/benlinux1/012_BenoitVINCENT-MAGICGITHUB.git
+- Specify a destination folder name on your computer and click "clone"
+- Here are the steps to illustrate in pictures :
+
+![Sans titre-1](https://user-images.githubusercontent.com/78255467/163190059-da88648f-1973-478d-bb77-b718449825a3.png)
+
+Next the app will compile in Android Studio
+
+
+## Use / How to launch app
+
+You can use this app with an emulator, for a choosen mobile simulation.
+To do that, go to the tools ribbon in the right part of the window and click "create device". Then, follow the instructions on screen.
+
+You can also use this app with your own smartphone, choosing "physical" option in device manager, 
+Then, launch app clicking on the green triangle button "Run", like in this example :
+
+![Sans titre-2](https://user-images.githubusercontent.com/78255467/163193524-89842086-ca39-475c-afc2-e39e3e586f68.png)
 
 
 ## Tests
