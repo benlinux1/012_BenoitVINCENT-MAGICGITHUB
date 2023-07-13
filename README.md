@@ -5,23 +5,23 @@
 
 # Magic Github
 
-Ce dépôt contient une mini-application pour le P2 du parcours **DA ANDROID**, intitulée **Magic Github**.
+Ce dépôt contient une mini-application intitulée **Magic Github**.
 
 ## Technologies
-- 100% JAVA, ce projet a été réalisé à partir de l'IDE Android Studio.
+- **100% JAVA**, ce projet a été réalisé à partir de l'IDE Android Studio.
 
 
-## Objectifs
+## Objectifs et fonctionnalités
 
-Ce projet visait à créer l'interface permettrant de relier l'API et :
+Ce projet visait à **créer l'interface** permettrant de relier l'API et :
 - Supprimer un utilisateur donné de l'application
 - Ajouter aléatoirement un nouvel utilisateur
 
 Il s'agissait donc d'architecturer un projet Android avec :
-- Injection de dépendances
-- Call API
-- RecyclerView
-- Gestion du state
+- **Injection de dépendances**
+- **Call API**
+- **RecyclerView**
+- **Gestion du state**
 
 ## Démo
 
@@ -83,23 +83,23 @@ Notre équipe : BenLinux & FranckBlack
 
 # Magic Github
 
-This repository contains a mini app for the **DA Android** 2nd projet, untiltled **Magic Github**
+This repository contains a mini Android app untiltled **Magic Github**
 
 ## Technologies
-- 100% JAVA, this project was made with Android Studio IDE.
+- **100% JAVA**, this project was made with Android Studio IDE.
 
 
-## Objectives
+## Objectives and features
 
-The project's objective was to create a custom interface in order to :
+The project's objective was to create a **custom interface** in order to :
 - Delete a given user form the app
 - Add randomly a new user in the list
 
 It was neccseray to build project with :
-- Dependency Injection
-- API call
-- RecyclerView
-- State management
+- **Dependency Injection**
+- **API call**
+- **RecyclerView**
+- **State management**
 
 
 ## Demo
